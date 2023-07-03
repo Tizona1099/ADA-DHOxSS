@@ -2,7 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3352830.svg)](https://doi.org/10.5281/zenodo.3352830)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mromanello/ADA-DHOxSS/master)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/Tizona1099/ADA-DHOxSS.git/HEAD
 
 
 Teaching materials for the Applied Data Analysis (ADA) activity strand at the [Digital Humanities Oxford Summer School](https://digital.humanities.ox.ac.uk/digital-humanities-oxford-summer-school). The authors of these materials are Giovanni Colavizza and Matteo Romanello.
